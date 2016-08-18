@@ -1,0 +1,21 @@
+{
+  "name": "express-store",
+  "version": "1.0.0",
+  "description": "express json",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.2.0",
+    "npm": "3.3.12"
+  },
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "4.13.4",
+    "tingodb": "^0.4.2"
+  },
+  "devDependencies": {}
+}
