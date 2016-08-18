@@ -18,7 +18,7 @@ Examples
 
 * `curl -u admin:changethis https://domain.example/testCollection/all`
 
-`[{"data2":"xyz","_id":2}]`
+  `[{"data2":"xyz","_id":2}]`
 
 * `curl -u -X DELETE admin:changethis https://domain.example/testCollection/2`
 
